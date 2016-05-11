@@ -1,17 +1,10 @@
-* Ruby version
+1. rails g model User name:string profile :string birthday:date でユーザーモデル作成
 
-* System dependencies
+2. rails generate controller Users show edit
 
-* Configuration
 
-* Database creation
+3.
 
-* Database initialization
+4.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5.
